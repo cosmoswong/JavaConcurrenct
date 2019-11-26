@@ -1,0 +1,92 @@
+## 该部分的讲解内容
+高并发编程第三阶段01讲 AtomicInteger多线程下测试讲解.mkv
+高并发编程第三阶段02讲 AtomicInteger API详解，以及CAS算法详细介绍.mkv
+高并发编程第三阶段03讲 利用CAS构造一个TryLock自定义显式锁.mp4
+高并发编程第三阶段04讲 利用CAS构造一个TryLock自定义显式锁-增强并发情况下.mp4
+高并发编程第三阶段05讲 AtomicBoolean源码分析.mp4
+高并发编程第三阶段06讲 AtomicLong源码分析.mp4
+高并发编程第三阶段07讲 AtomicReference详解，CAS算法带来的ABA问题详解.mp4
+高并发编程第三阶段08讲 AtomicStampReference详解，解决CAS带来的ABA问题.mp4
+高并发编程第三阶段09讲 AtomicIntegerArray,AtomicLongArray,AtomicReferenceArray讲解.mp4
+高并发编程第三阶段10讲 AtomicIntegerFieldUpdater,AtomicLongFieldUpdater,AtomicReferenceFieldUpdater讲解.mp4
+高并发编程第三阶段11讲 AtomicXXXFieldUpdater源码分析及使用场景分析.mp4
+高并发编程第三阶段12讲 sun.misc.Unsafe介绍以及几种Counter方案性能对比.mp4
+高并发编程第三阶段13讲 一个JNI程序的编写，通过Java去调用C，C++程序.mp4
+高并发编程第三阶段14讲 Unsafe中的方法使用，一半是天使，一半是魔鬼的Unsafe.mp4
+高并发编程第三阶段15讲 Unsafe背后的汇编指令，牛逼男人背后的女人_.mp4
+高并发编程第三阶段16讲 CountDownLatch经典案例讲解-上_.mp4
+高并发编程第三阶段17讲 CountDownLatch经典案例讲解及API精讲-中_.mp4
+高并发编程第三阶段18讲 CountDownLatch经典案例讲解如何给离散平行任务增加逻辑层次关系-下_.mp4
+高并发编程第三阶段19讲 CyclicBarrier工具的使用场景介绍_.mp4
+高并发编程第三阶段20讲 CyclicBarrier vs CountDownLatch_.mp4
+高并发编程第三阶段21讲 Exchanger工具的使用以及常见问题分析-上_.mp4
+高并发编程第三阶段22讲 Exchanger工具的使用以及常见问题分析-下_.mp4
+高并发编程第三阶段23讲 Semaphore工具的介绍以及借助于Semaphore构造一个Lock_.mp4
+高并发编程第三阶段24讲 Semaphore工具API详细介绍-上_.mp4
+高并发编程第三阶段25讲 Semaphore工具API详细介绍-下_.mp4
+高并发编程第三阶段26讲 Lock&ReentrantLock详细讲解_.mp4
+高并发编程第三阶段27讲 ReadWriteLock&ReentrantReadWriteLock详细讲解_.mp4
+高并发编程第三阶段28讲 Condition初步使用，提出几个疑问_.mp4
+高并发编程第三阶段30讲 使用Condition实现一个多线程下的Producer-Consumer_.mp4
+高并发编程第三阶段31讲 JDK8-StampedLock详细介绍-上_.mp4
+高并发编程第三阶段32讲 JDK8-StampedLock详细介绍-下.mp4
+高并发编程第三阶段33讲 ForkJoin框架之RecursiveTask_.mp4
+高并发编程第三阶段34讲 ForkJoin框架之RecursiveAction_.mp4
+高并发编程第三阶段35讲 Phaser工具的实战案例使用第一部分_.mp4
+高并发编程第三阶段36讲 Phaser工具的实战案例使用第二部分_.mp4
+高并发编程第三阶段37讲 Phaser工具的实战案例使用第三部分_.mp4
+高并发编程第三阶段38讲 Executor&ExecutorService讲解_.mp4
+高并发编程第三阶段39讲 ThreadPoolExecutor七大构造参数详细讲解_.mp4
+高并发编程第三阶段40讲 ThreadPoolExecutor关闭(很重要)精讲_.mp4
+高并发编程第三阶段41讲 newCache&newFixed&single ExecutorService详解_.mp4
+高并发编程第三阶段42讲 newWorkStealingPool ExecutorService详解_.mp4
+高并发编程第三阶段43讲 Scheduler的前奏Timer&Linux Crontab & quartz比较_.mp4
+高并发编程第三阶段44讲 ExecutorService API详细讲解-上_.mp4
+高并发编程第三阶段45讲 ExecutorService 四大内置拒绝策略深入探究_.mp4
+高并发编程第三阶段46讲 ExecutorService API详细讲解-中_.mp4
+高并发编程第三阶段47讲 ExecutorService API详细讲解-下_.mp4
+高并发编程第三阶段48讲 Future&Callable详细讲解-上_.mp4
+高并发编程第三阶段49讲 Future&Callable详细讲解-下_.mp4
+高并发编程第三阶段50讲 CompletionService详细介绍_.mp4
+高并发编程第三阶段51讲 ScheduledExecutorService详细讲解-上_.mp4
+高并发编程第三阶段52讲 ScheduledExecutorService详细讲解-下_.mp4
+高并发编程第三阶段53讲 知识回顾与串联_.mp4
+高并发编程第三阶段54讲 课程问题答疑，ExecutorService中的陷阱_.mp4
+高并发编程第三阶段55讲 CompletableFuture的使用精讲（体验）-1_.mp4
+高并发编程第三阶段56讲 CompletableFuture的使用精讲（构建）-2_.mp4
+高并发编程第三阶段57讲 CompletableFuture的使用精讲（熟练）-3_.mp4
+高并发编程第三阶段58讲 CompletableFuture的使用精讲（深入）-4_.mp4
+高并发编程第三阶段59讲 CompletableFuture的使用精讲（掌握）-5_.mp4
+高并发编程第三阶段61讲 跳表数据结构的Java实现-1_.mp4
+高并发编程第三阶段62讲 跳表数据结构的Java实现-2_.mp4
+高并发编程第三阶段63讲 跳表数据结构的Java实现（解决Bug）-3_.mp4
+高并发编程第三阶段64讲 ArrayBlockingList详细讲解_.mp4
+高并发编程第三阶段65讲 PriorityBlockingQueue详细讲解_.mp4
+高并发编程第三阶段66讲 LinkedBlockingQueue详细讲解_.mp4
+高并发编程第三阶段67讲 SynchronousQueue详细讲解_.mp4
+高并发编程第三阶段68讲 DelayQueue详细讲解_.mp4
+高并发编程第三阶段69讲 LinkedBlockingDeque详细讲解_.mp4
+高并发编程第三阶段70讲 LinkedTransferQueue详细讲解_.mp4
+高并发编程第三阶段71讲 七大BlockingQueue的特点总结，可以不用详细看_.mp4
+高并发编程第三阶段72讲 ConcurrentHashMap性能测试以及JDK1.7原理讲解_.mp4
+高并发编程第三阶段73讲 ConcurrentHashMap性能测试以及JDK1.8原理讲解_.mp4
+高并发编程第三阶段74讲 ConcurrentSkipListMap详细讲解_.mp4
+高并发编程第三阶段75讲 ConcurrentSkipListMap vs ConcurrentHashMap_.mp4
+高并发编程第三阶段76讲 ConcurrentLinkedQueue&ConcurrentLinkedDeque_.mp4
+高并发编程第三阶段77讲 CopyOnWriteArrayList&CopyOnWriteArraySet源码分析_.mp4
+高并发编程第三阶段78讲 ConcurrentLinkedList vs CopyOnWriteArrayList vs SynchronizedList性能对比_.mp4
+高并发编程第三阶段79讲 实现一个高并发的无锁队列（Lock-Free）.mp4
+高并发编程第三阶段80讲 总结与回顾，闲聊与感谢.mp4
+      
+
+
+
+
+
+
+
+
+
+
+
+
