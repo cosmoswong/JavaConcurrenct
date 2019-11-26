@@ -12,6 +12,7 @@ public class VolatileTest {
     private final static int MAX_LIMIT = 500;
 
     public static void main(String[] args) {
+        //如果线程中不存在写的操作，只存在读的操作，则可能在运行中，不会从主存中读取更新的数据
         new Thread(() -> {
             int localValue = INIT_VALUE;
             while (localValue < MAX_LIMIT) {
