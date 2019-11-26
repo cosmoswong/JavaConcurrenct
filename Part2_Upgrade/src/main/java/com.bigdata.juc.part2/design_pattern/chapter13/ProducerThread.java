@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter13;
+package com.bigdata.juc.part2.design_pattern.chapter13;
 
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;

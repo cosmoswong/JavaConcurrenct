@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter12;
+package com.bigdata.juc.part2.design_pattern.chapter12;
 
 import java.io.IOException;
 

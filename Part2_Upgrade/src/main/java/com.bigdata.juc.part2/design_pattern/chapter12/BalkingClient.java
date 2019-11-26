@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter12;
+package com.bigdata.juc.part2.design_pattern.chapter12;
 
 /***************************************
  * @author:Alex Wang
@@ -7,7 +7,7 @@ package com.bigdata.juc.part2.chapter12;
  ***************************************/
 public class BalkingClient {
     public static void main(String[] args) {
-        BalkingData balkingData = new BalkingData("C:\\Users\\wangwenjun\\IdeaProjects\\java-concurrency\\design_pattern\\balking.txt", "===BEGIN====");
+       BalkingData balkingData = new BalkingData("C:\\Users\\wangwenjun\\IdeaProjects\\java-concurrency\\design_pattern\\balking.txt", "===BEGIN====");
         new CustomerThread(balkingData).start();
         new WaiterThread(balkingData).start();
     }

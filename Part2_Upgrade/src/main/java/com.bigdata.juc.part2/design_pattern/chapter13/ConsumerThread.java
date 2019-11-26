@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter13;
+package com.bigdata.juc.part2.design_pattern.chapter13;
 
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  ***************************************/
 public class ConsumerThread extends Thread {
 
-    private final MessageQueue messageQueue;
+    private MessageQueue messageQueue;
 
     private final static Random random = new Random(System.currentTimeMillis());
 

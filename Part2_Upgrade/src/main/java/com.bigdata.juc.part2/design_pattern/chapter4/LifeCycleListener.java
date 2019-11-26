@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter4;
+package com.bigdata.juc.part2.design_pattern.chapter4;
 
 /***************************************
  * @author:Alex Wang
@@ -6,6 +6,6 @@ package com.bigdata.juc.part2.chapter4;
  * QQ交流群:286081824
  ***************************************/
 public interface LifeCycleListener {
-    
+
     void onEvent(ObservableRunnable.RunnableEvent event);
 }

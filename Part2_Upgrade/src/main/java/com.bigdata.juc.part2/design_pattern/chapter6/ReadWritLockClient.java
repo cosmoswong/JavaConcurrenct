@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter6;
+package com.bigdata.juc.part2.design_pattern.chapter6;
 
 /***************************************
  * @author:Alex Wang

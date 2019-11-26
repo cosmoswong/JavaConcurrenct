@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter15;
+package com.bigdata.juc.part2.design_pattern.chapter15;
 
 import java.util.stream.IntStream;
 
