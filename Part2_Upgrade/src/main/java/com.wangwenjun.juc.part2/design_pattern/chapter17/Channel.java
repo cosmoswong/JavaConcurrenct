@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.design_pattern.chapter17;
+package com.wangwenjun.juc.part2.design_pattern.chapter17;
 
 import java.util.Arrays;
 import java.util.List;

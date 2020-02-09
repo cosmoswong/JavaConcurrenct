@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.design_pattern.chapter14;
+package com.wangwenjun.juc.part2.design_pattern.chapter14;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;

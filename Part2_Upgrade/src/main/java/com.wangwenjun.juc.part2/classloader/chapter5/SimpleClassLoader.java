@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter5;
+package com.wangwenjun.juc.part2.classloader.chapter5;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

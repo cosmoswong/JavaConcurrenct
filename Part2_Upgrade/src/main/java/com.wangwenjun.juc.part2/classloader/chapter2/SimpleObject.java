@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter2;
+package com.wangwenjun.juc.part2.classloader.chapter2;
 
 /***************************************
  * @author:Alex Wang

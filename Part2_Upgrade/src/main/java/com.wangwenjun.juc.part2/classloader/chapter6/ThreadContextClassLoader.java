@@ -1,6 +1,6 @@
-package com.bigdata.juc.part2.classloader.chapter6;
+package com.wangwenjun.juc.part2.classloader.chapter6;
 
-import com.bigdata.juc.part2.classloader.chapter3.MyClassLoader;
+import com.wangwenjun.juc.part2.classloader.chapter3.MyClassLoader;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

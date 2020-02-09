@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter5;
+package com.wangwenjun.juc.part2.classloader.chapter5;
 
 /***************************************
  * @author:Alex Wang
@@ -7,15 +7,15 @@ package com.bigdata.juc.part2.classloader.chapter5;
  ***************************************/
 public class RuntimePackage {
     //RuntimePackage
-    //com.bigdata.juc.part2.classloader.chapter5
-    //Boot.Ext.App.com.bigdata.juc.part2.classloader.chapter5
+    //com.wangwenjun.juc.part2.classloader.chapter5
+    //Boot.Ext.App.com.wangwenjun.juc.part2.classloader.chapter5
 
-    //Boot.Ext.App.com.bigdata.juc.part2.classloader.chapter5.SimpleClassLoaderTest
-    //Boot.Ext.App.SimpleClassLoader.com.bigdata.juc.part2.classloader.chapter5.SimpleClassLoaderTest
+    //Boot.Ext.App.com.wangwenjun.juc.part2.classloader.chapter5.SimpleClassLoaderTest
+    //Boot.Ext.App.SimpleClassLoader.com.wangwenjun.juc.part2.classloader.chapter5.SimpleClassLoaderTest
 
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
         SimpleClassLoader simpleClassLoader = new SimpleClassLoader();
-        Class<?> aClass = simpleClassLoader.loadClass("com.bigdata.juc.part2.classloader.chapter5.SimpleObject");
+        Class<?> aClass = simpleClassLoader.loadClass("com.wangwenjun.juc.part2.classloader.chapter5.SimpleObject");
         //sSystem.out.println(aClass.getClassLoader());
         SimpleObject simpleObject = (SimpleObject) aClass.newInstance();
     }

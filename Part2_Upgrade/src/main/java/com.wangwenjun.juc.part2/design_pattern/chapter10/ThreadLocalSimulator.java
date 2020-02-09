@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.chapter10;
+package com.wangwenjun.juc.part2.chapter10;
 
 import java.util.HashMap;
 import java.util.Map;

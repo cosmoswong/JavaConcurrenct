@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter2;
+package com.wangwenjun.juc.part2.classloader.chapter2;
 
 /***************************************
  * @author:Alex Wang
@@ -12,7 +12,7 @@ public class BootClassLoader {
         System.out.println(System.getProperty("java.ext.dirs"));
 
 
-        Class<?> klass = Class.forName("com.bigdata.juc.part2.classloader.chapter2.SimpleObject");
+        Class<?> klass = Class.forName("com.wangwenjun.juc.part2.classloader.chapter2.SimpleObject");
         System.out.println(klass.getClassLoader());
         System.out.println(klass.getClassLoader().getParent());
         System.out.println(klass.getClassLoader().getParent().getParent());

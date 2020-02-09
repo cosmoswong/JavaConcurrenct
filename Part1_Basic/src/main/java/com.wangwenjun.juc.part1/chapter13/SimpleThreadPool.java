@@ -1,4 +1,4 @@
-package com.bigdata.juc.part1.chapter13;
+package com.wangwenjun.juc.part1.chapter13;
 
 import java.util.ArrayList;
 import java.util.Iterator;

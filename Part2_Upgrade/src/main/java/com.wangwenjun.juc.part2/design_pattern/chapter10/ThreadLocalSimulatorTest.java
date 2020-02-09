@@ -1,7 +1,7 @@
-package com.bigdata.juc.part2.design_pattern.chapter10;
+package com.wangwenjun.juc.part2.design_pattern.chapter10;
 
 import java.util.Random;
-import  com.bigdata.juc.part2.chapter10.ThreadLocalSimulator;
+import  com.wangwenjun.juc.part2.chapter10.ThreadLocalSimulator;
 /***************************************
  * @author:Alex Wang
  * @Date:2017/3/23 QQ:532500648

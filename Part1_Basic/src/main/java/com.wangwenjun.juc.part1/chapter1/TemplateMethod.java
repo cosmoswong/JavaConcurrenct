@@ -1,4 +1,4 @@
-package com.bigdata.juc.part1.chapter1;
+package com.wangwenjun.juc.part1.chapter1;
 
 /***************************************
  * @author:Alex Wang

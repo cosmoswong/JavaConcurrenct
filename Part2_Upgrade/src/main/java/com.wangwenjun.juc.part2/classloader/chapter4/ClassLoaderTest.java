@@ -1,6 +1,6 @@
-package com.bigdata.juc.part2.classloader.chapter4;
+package com.wangwenjun.juc.part2.classloader.chapter4;
 
-import com.bigdata.juc.part2.classloader.chapter3.MyClassLoader;
+import com.wangwenjun.juc.part2.classloader.chapter3.MyClassLoader;
 
 import java.lang.reflect.Method;
 
@@ -13,7 +13,7 @@ public class ClassLoaderTest {
     public static void main(String[] args) throws Exception {
 
         DecryptClassLoader classLoader = new DecryptClassLoader();
-        Class<?> aClass = classLoader.loadClass("com.bigdata.juc.part2.classloader.chapter3.MyObject");
+        Class<?> aClass = classLoader.loadClass("com.wangwenjun.juc.part2.classloader.chapter3.MyObject");
         System.out.println(aClass);
 
         Object obj = aClass.newInstance();

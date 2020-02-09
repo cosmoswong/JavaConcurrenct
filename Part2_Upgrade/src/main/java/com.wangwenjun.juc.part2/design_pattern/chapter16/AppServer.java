@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.design_pattern.chapter16;
+package com.wangwenjun.juc.part2.design_pattern.chapter16;
 
 import java.io.IOException;
 import java.net.ServerSocket;

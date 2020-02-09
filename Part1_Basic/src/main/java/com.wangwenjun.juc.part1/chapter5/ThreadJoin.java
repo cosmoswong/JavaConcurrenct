@@ -1,4 +1,4 @@
-package com.bigdata.juc.part1.chapter5;
+package com.wangwenjun.juc.part1.chapter5;
 
 import java.util.Optional;
 import java.util.stream.IntStream;

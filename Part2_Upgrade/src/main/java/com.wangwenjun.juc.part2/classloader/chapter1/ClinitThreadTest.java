@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter1;
+package com.wangwenjun.juc.part2.classloader.chapter1;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

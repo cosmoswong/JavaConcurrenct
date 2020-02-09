@@ -1,4 +1,4 @@
-package com.bigdata.juc.part2.classloader.chapter1;
+package com.wangwenjun.juc.part2.classloader.chapter1;
 
 import java.util.Random;
 
@@ -20,7 +20,7 @@ public class ClassActiveUse {
 //        System.out.println(Obj.salary);
 //        Obj.printSalary();
 
-//        Class.forName("com.bigdata.juc.part2.classloader.chapter1.Obj");
+//        Class.forName("com.wangwenjun.juc.part2.classloader.chapter1.Obj");
 
 
 //        System.out.println(Child.age);

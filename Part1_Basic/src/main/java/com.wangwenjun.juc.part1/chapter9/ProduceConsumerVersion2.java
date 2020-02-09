@@ -1,4 +1,4 @@
-package com.bigdata.juc.part1.chapter9;
+package com.wangwenjun.juc.part1.chapter9;
 
 import java.util.stream.Stream;
 

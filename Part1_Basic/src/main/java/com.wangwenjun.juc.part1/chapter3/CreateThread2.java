@@ -1,4 +1,4 @@
-package com.bigdata.juc.part1.chapter3;
+package com.wangwenjun.juc.part1.chapter3;
 
 import java.util.Arrays;
 
